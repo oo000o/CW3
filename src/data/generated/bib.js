@@ -1,0 +1,123 @@
+﻿define({ entries : {
+    "726787": {
+        "author": "Niyogi, P. and Girosi, F. and Poggio, T.",
+        "doi": "10.1109/5.726787",
+        "journal": "Proceedings of the IEEE",
+        "keywords": "Machine learning,Learning systems,Speech,Pattern recognition,Function approximation,Associate members,Supervised learning,Counting circuits,Prototypes,Knowledge acquisition",
+        "number": "11",
+        "pages": "2196-2209",
+        "title": "Incorporating prior information in machine learning by creating virtual examples",
+        "type": "ARTICLE",
+        "volume": "86",
+        "year": "1998"
+    },
+    "7373334": {
+        "author": "Lyu, Chunchuan and Huang, Kaizhu and Liang, Hai-Ning",
+        "booktitle": "2015 IEEE International Conference on Data Mining",
+        "doi": "10.1109/ICDM.2015.84",
+        "keywords": "Robustness,Mathematical model,Predictive models,Approximation methods,Training,Data mining,Optimization,Adversarial examples,Deep learning,Regularization,Robust classification",
+        "number": "",
+        "pages": "301-309",
+        "title": "A Unified Gradient Regularization Family for Adversarial Examples",
+        "type": "INPROCEEDINGS",
+        "volume": "",
+        "year": "2015"
+    },
+    "RANA202085": {
+        "abstract": "Research that meaningfully integrates constraint-based modeling with machine learning is at its infancy but holds much promise. Here, we consider where machine learning has been implemented within the constraint-based modeling reconstruction framework and highlight the need to develop approaches that can identify meaningful features from large-scale data and connect them to biological mechanisms to establish causality to connect genotype to phenotype. We motivate the construction of iterative integrative schemes where machine learning can fine-tune the input constraints in a constraint-based model or contrarily, constraint-based model simulation results are analyzed by machine learning and reconciled with experimental data. This can iteratively refine a constraint-based model until there is consistency between experimental data, machine learning results, and constraint-based model simulations.",
+        "author": "Pratip Rana and Carter Berry and Preetam Ghosh and Stephen S Fong",
+        "doi": "https://doi.org/10.1016/j.copbio.2019.11.007",
+        "issn": "0958-1669",
+        "journal": "Current Opinion in Biotechnology",
+        "note": "Analytical Biotechnology",
+        "pages": "85-91",
+        "title": "Recent advances on constraint-based models by integrating machine learning",
+        "type": "article",
+        "url": "https://www.sciencedirect.com/science/article/pii/S095816691930117X",
+        "volume": "64",
+        "year": "2020"
+    },
+    "XIONG2025111007": {
+        "abstract": "Different approaches have been developed for evaluating Sobol\u2019 indices for global sensitivity analysis (GSA). Among them sample-based approaches are extremely attractive because they can be purely driven by data and estimate various Sobol\u2019 indices (e.g., first-order, higher-order, total-effects) for any individual or group of random variables using only one set of samples. However, such approaches usually rely on an accurate density estimation for the interested groups of random variables, which can be challenging for high-dimensional groups. For example, the commonly used kernel density estimation (KDE) suffers from curse of dimensionality. In this regard, this paper proposes a novel knowledge-enhanced machine learning approach for data-driven GSA for groups of random variables using sample-based approach and an emerging generative machine learning model, i.e., normalizing flows (NFs), for high-dimensional density estimation. To facilitate reliable and robust NFs training, a knowledge distillation-based two-stage training strategy is developed. Two customized loss functions are introduced, which are inspired by domain knowledge in the context of sample-based approach for GSA. Two examples are considered to illustrate and verify the efficacy of the proposed approach. Results show that introducing NFs can significantly alleviate the curse of dimensionality in the traditional sample-based approach for GSA and improve accuracy of density estimation and estimation of Sobol\u2019 indices.",
+        "author": "Ziluo Xiong and Gaofeng Jia",
+        "doi": "https://doi.org/10.1016/j.ress.2025.111007",
+        "issn": "0951-8320",
+        "journal": "Reliability Engineering & System Safety",
+        "keywords": "Sensitivity analysis, Sobol\u2019 index, Group of random variables, Data-driven approach, Knowledge-enhanced machine learning, Normalizing flows",
+        "pages": "111007",
+        "title": "Data-driven global sensitivity analysis for group of random variables through knowledge-enhanced machine learning with normalizing flows",
+        "type": "article",
+        "url": "https://www.sciencedirect.com/science/article/pii/S095183202500208X",
+        "volume": "260",
+        "year": "2025"
+    },
+    "braiek2025machine": {
+        "author": "Braiek, Houssem Ben and Khomh, Foutse",
+        "booktitle": "Trustworthy AI in Medical Imaging",
+        "doi": "https://doi.org/10.48550/arXiv.2404.00897",
+        "keywords": "Machine Learning , Deep Learning , Robust AI , Trustworthy AI , Adversarial Robustness , Non - Adversarial Robustness , Model Veri\ufb01cation , DL Software Testing , Robust Training , Robustness Assurance",
+        "pages": "37--71",
+        "publisher": "Elsevier",
+        "title": "Machine learning robustness: A primer",
+        "type": "incollection",
+        "year": "2025"
+    },
+    "dash2021incorporating": {
+        "author": "Dash, Tirtharaj and Chitlangia, Sharad and Ahuja, Aditya and Srinivasan, Ashwin",
+        "doi": "https://doi.org/10.48550/arXiv.2103.00180",
+        "journal": "arXiv preprint arXiv:2103.00180",
+        "title": "Incorporating domain knowledge into deep neural networks",
+        "type": "article",
+        "year": "2021"
+    },
+    "kang2020input": {
+        "author": "Kang, Yilin and Liu, Yong and Niu, Ben and Tong, Xinyi and Zhang, Likun and Wang, Weiping",
+        "doi": "https://doi.org/10.48550/arXiv.2002.08570",
+        "journal": "arXiv preprint arXiv:2002.08570",
+        "keywords": "differential privacy, machine learning, input perturbation, empirical,risk minimization",
+        "title": "Input perturbation: A new paradigm between central and local differential privacy",
+        "type": "article",
+        "year": "2020"
+    },
+    "liu2024knowledge": {
+        "author": "Liu, Licheng and Zhou, Wang and Guan, Kaiyu and Peng, Bin and Xu, Shaoming and Tang, Jinyun and Zhu, Qing and Till, Jessica and Jia, Xiaowei and Jiang, Chongya and others",
+        "doi": "https://doi.org/10.1038/s41467-023-43860-5",
+        "journal": "Nature communications",
+        "number": "1",
+        "pages": "357",
+        "publisher": "Nature Publishing Group UK London",
+        "title": "Knowledge-guided machine learning can improve carbon cycle quantification in agroecosystems",
+        "type": "article",
+        "volume": "15",
+        "year": "2024"
+    },
+    "pei2023applying": {
+        "author": "Pei, Te and Qiu, Tong and Shen, Chaopeng",
+        "doi": "https://doi.org/10.1061/JGGEFK.GTENG-11053",
+        "journal": "Journal of Geotechnical and Geoenvironmental Engineering",
+        "keywords": "Case histories,Domain knowledge,Machine learning,Slope stability",
+        "number": "10",
+        "pages": "04023089",
+        "publisher": "American Society of Civil Engineers",
+        "title": "Applying knowledge-guided machine learning to slope stability prediction",
+        "type": "article",
+        "volume": "149",
+        "year": "2023"
+    },
+    "pmlr-v130-subbaswamy21a": {
+        "abstract": " As the use of machine learning in high impact domains becomes widespread, the importance of evaluating safety has increased. An important aspect of this is evaluating how robust a model is to changes in setting or population, which typically requires applying the model to multiple, independent datasets. Since the cost of collecting such datasets is often prohibitive, in this paper, we propose a framework for evaluating this type of stability using the available data. We use the original evaluation data to determine distributions under which the algorithm performs poorly, and estimate the algorithm\u2019s performance on the \"worst-case\" distribution. We consider shifts in user defined conditional distributions, allowing some distributions to shift while keeping other portions of the data distribution fixed. For example, in a healthcare context, this allows us to consider shifts in clinical practice while keeping the patient population fixed. To address the challenges associated with estimation in complex, high-dimensional distributions, we derive a \"debiased\" estimator which maintains root-N consistency even when machine learning methods with slower convergence rates are used to estimate the nuisance parameters. In experiments on a real medical risk prediction task, we show this estimator can be used to analyze stability and accounts for realistic shifts that could not previously be expressed. The proposed framework allows practitioners to proactively evaluate the safety of their models without requiring additional data collection.",
+        "author": "Subbaswamy, Adarsh and Adams, Roy and Saria, Suchi",
+        "booktitle": "Proceedings of The 24th International Conference on Artificial Intelligence and Statistics",
+        "editor": "Banerjee, Arindam and Fukumizu, Kenji",
+        "month": "13--15 Apr",
+        "pages": "2611--2619",
+        "pdf": "http://proceedings.mlr.press/v130/subbaswamy21a/subbaswamy21a.pdf",
+        "publisher": "PMLR",
+        "series": "Proceedings of Machine Learning Research",
+        "title": " Evaluating Model Robustness and Stability to Dataset Shift",
+        "type": "InProceedings",
+        "url": "https://proceedings.mlr.press/v130/subbaswamy21a.html",
+        "volume": "130",
+        "year": "2021"
+    }
+}});
